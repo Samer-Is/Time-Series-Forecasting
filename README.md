@@ -13,3 +13,6 @@ columns per forecast) and 96 rows:
 1. the first one without using outdoor temperature,
 2. the second one using outdoor temperature.
 Of course, the goal is to get the best possible forecasting.
+
+###This work is the deliverable of the final assignment of Time Series class at DSTI
+
